@@ -3,7 +3,9 @@
   "license": "MIT",
   "main": "index.json",
   "name": "@excalidraw/prettier-config",
-  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": "https://github.com/excalidraw/prettier-config",
   "version": "1.0.0"
 }
