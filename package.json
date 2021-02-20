@@ -1,9 +1,9 @@
-
 {
   "description": "Excalidraw's Prettier config",
   "license": "MIT",
   "main": "index.json",
   "name": "@excalidraw/prettier-config",
+  "private": false,
   "repository": "https://github.com/excalidraw/prettier-config",
   "version": "1.0.0"
 }
