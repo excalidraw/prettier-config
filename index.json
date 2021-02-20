@@ -1,0 +1,12 @@
+{
+  "proseWrap": "never",
+  "trailingComma": "all",
+  "overrides": [
+    {
+      "files": ["*.json"],
+      "options": {
+        "printWidth": 256
+      }
+    }
+  ]
+}
