@@ -1,6 +1,6 @@
 # @excalidraw/prettier-config
 
-> Excalidraw's [Prettier](https://prettier.io) config.
+Excalidraw's [Prettier](https://prettier.io) config.
 
 ## Usage
 
@@ -16,5 +16,22 @@ yarn add --dev @excalidraw/prettier-config prettier
 {
   // ...
   "prettier": "@excalidraw/prettier-config"
+}
+```
+
+## What you get
+
+```json
+{
+  "proseWrap": "never",
+  "trailingComma": "all",
+  "overrides": [
+    {
+      "files": ["*.json"],
+      "options": {
+        "printWidth": 256
+      }
+    }
+  ]
 }
 ```
