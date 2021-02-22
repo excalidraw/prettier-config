@@ -7,7 +7,7 @@
 ### Install
 
 ```bash
-yarn add --dev @excalidraw/prettier-config
+yarn add --dev @excalidraw/prettier-config prettier
 ```
 
 ### Edit `package.json`
